@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandofalcone-dev" alt="fernandofalcone-dev" /></a> </p>
 
-- 🔭 I’m currently working on [DatingApp](https://github.com/FernandoFalcone-dev/DatingApp)
+- 🔭 I’m currently working on [LobosPerformancePlatform](https://github.com/FernandoFalcone-dev/lobos-performance-platform)
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
